@@ -1,0 +1,71 @@
+﻿Area_OG,Site,Age,Lower,Upper,Median,References,Calathea allouia (Marantaceae),Dioscorea sp. (Dioscoreaceae),Ipomoea sp. (Convolulaceae),Ipomoea batatas (Convolvulaceae),Manihot sp. (Euphorbiaceae),Manihot esculenta (Euphorbiaceae),Maranta arundinacea (Marantaceae),Cucurbita sp. (Cucurbitaceae),Arachis sp. (Fabaceae),Phaseolus sp. (Fabaceae),Chenopodium sp.  (Chenopodiaceae),Solanaceae,Capsicum sp. (Solanaceae),Capsicum chinensis (Solanaceae),Zea mays (Panicoideae),Oryza sp. (Oryzeae),Bactris gasipaes ,Bactris sp.,Sum
+Middle Caquetá,Peña Roja,11076-9562,11076,9562,10319,"Piperno & Pearsall, 1998; Piperno, 1997",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Middle Caquetá,Peña Roja,9251-8773,9251,8773,9012,"Piperno, 1997",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Lindosa,Cerro Azul,11802-12218,11802,12218,12010,"Morcote-Rios et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Llanos de Mojos,Isla Manechi,10546-10231,10546,10231,10389,"Lombardo et al., 2020",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Llanos de Mojos,Isla Manechi,10284-10196,10284,10196,10240,"Lombardo et al., 2020",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Llanos de Mojos,Isla del Tesoro,8354-8175,8354,8175,8265,"Lombardo et al., 2020",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Western Amazonia,Teotônio,9524-9400,9524,9400,9462,"Watling et al., 2018",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2
+Pará,Gruta do Pequia,9551-9454,9551,9454,9503,"Magalhães, 2005",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Middle Caqueta,Abeja,5580-5318,5580,5318,5449,"Mora et al., 1991",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+Araracuara/Caqueta,Site 2,5569-5302,5569,5302,5436,"Herrera et al., 1992",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+Llanos de Mojos,Site 570,6984-6695,6984,6695,6840,"Lombardo et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Llanos de Mojos,San Pablo,6306-6186,6306,6186,6246,"Lombardo et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+Llanos de Mojos,,6500-,6500,,6500,"Brugger et al., 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Western Amazonia,Teotonio,6495-6400,6495,6400,6448,"Watling et al., 2015",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2
+Rondônia,Monte Castelo,5310-4280,5310,4280,4795,"Hilbert, 2017",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3
+Amazon,Lake Sauce,6320-,6320,,6320,"Bush et al., 2016",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazon,Ayauchi,5440-4886,5440,4886,5163,"Piperno, 1990",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazon,Ayauchi,8151-4979,8151,4979,6565,"Bush et al., 1989",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Para,Lake Caranã,4300-,4300,,4300,"Maezumi et al., 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Upper Purus,Tequinho,4814-4431,4814,4431,4623,"Pärssinen et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+U3 20-30,St John ,6977-6798,6977,6798,6888,"Pagán Jiménez et al., 2015",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+U1 50-60,St John ,7928-7721,7928,7721,7825,"Pagán Jiménez et al., 2015",0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3
+U2 50-60,St John ,7618-7512,7618,7512,7565,"Pagán Jiménez et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+U3 10-20,St John ,7168-7005,7168,7005,7087,"Pagán Jiménez et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+U3 30-40,St John ,5909-5746,5909,5746,5828,"Pagán Jiménez et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Malmanoury,Eva 2,6095-3930,6095,3930,5013,"Pagán Jiménez et al., 2015",0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,3
+Araracuara/Caquetá,Site 2,1538-673,1538,673,1106,"Herrera et al., 1992",0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,4
+Araracuara/Caquetá,Site 3,1900-200,1900,200,1050,"Herrera et al., 1992",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Northeast,Lago Granja del Padre,2000-,2000,,2000,"Carson et al., 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazon,Triunfo,3554-3374,3554,3374,3464,This study,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Amazon,Triunfo,2349-2159,2349,2159,2254,This study,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Llanos de Mojos,,1500-600,1500,600,1050,"Dickau et al., 2012",0,1,0,0,1,0,0,1,1,0,0,1,1,0,1,0,0,0,7
+Llanos de Mojos,,1200-,1200,,1200,"Whitney et al., 2014",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+Llanos de Mojos,Loma Salvatierra,1390-690,1390,690,1040,"Bruno, 2010",0,0,1,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,5
+Pando,El Circulo,1700-600,1700,600,1150,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Pando,Las Palmeras,1950-200,1950,200,1075,"Watling et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Pando,Chacra Teleria,1900-1800,1900,1800,1850,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Pando,Tumichucua,2200-1800,2200,1800,2000,"Watling et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Acre,Geoglyphs,950-400,950,400,675,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Acre,Sol de Campinas,900-500,900,500,700,"Neves et al., 2016",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2
+Amazon region,Ayauchi,3814-3370,3814,3370,3592,"Piperno, 1990",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Valle del Upano,,2500-800,2500,800,1650,"Pagán Jiménez & Rostain, 2014",1,1,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,7
+Upper Purus,Tequinho,2050-,2050,,2050,"Pärssinen et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Upper Purus,Cruzeirinho,1850-1500,1850,1500,1675,"Pärssinen et al., 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Acre,Fazenda Iquiri II,600-400,600,400,500,"Watling et al., 2015",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Acre,Sol de Maio,700-,700,,700,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Acre,Campo Esperanca,600-,600,,600,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Acre,Tequinho,2000-1400,2000,1400,1700,"Watling et al., 2015",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Rondônia,Monte Castelo,4000-,4000,,4000,"Hilbert et al., 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2
+Rondônia,Monte Castelo,4628-625,4628,625,2627,"Hilbert, 2017; Furquim, 2018",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3
+Pará,Caverna de Pedra Pintada,1200-,1200,,1200,"Roosevelt, 2000",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Pará,Tucuma,4425-1523,4425,1523,2974,"Hilbert, 2017",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,3
+Pará,Lake Caranã,3200-,3200,,3200,"Maezumi et al., 2018",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pará,Lake Caranã,2250-,2250,,2250,"Maezumi et al., 2018",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+Pará,Gruta do Gavião,8140-2900,8140,2900,5520,"Silveira, 1994",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2
+Pará,Lake Caranã,1725-,1725,,1725,"Maezumi et al., 2018; Alves, 2017",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2
+Pará,Porto,3565-3403,3565,3403,3484,"Alves, 2017",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Pará,Porto,3156-2953,3156,2953,3055,"Alves, 2017",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Pará,Geral,4030-,4030,,4030,"Bush et al., 2000, 2007",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Central ,Santa Elina ,6000-1500,6000,1500,3750,"Ceccantini, 2002; Ceccantini & Fernandez, 2005; Ceccantini & Gussella, 2001; Scheel-Ybert & Bachelet, 2020",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+Amazonas,Hatahara,2200-700,2200,700,1450,"Bozarth et al., 2009; Caromano et al., 2013; Scheel-Ybert et al., 2016",1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,5
+Amazonas,Hatahara,2250-700,2250,700,1475,"Caromano, 2010",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+Amazonas,Sao Joao,1352-506,1352,506,929,"Cassino, 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazonas,Osvaldo,2150-1280,2150,1280,1715,"Silva, 2012",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazonas,Osvaldo,1300-,1300,,1300,"Shock et al., 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Solimões River,Conjunto Vilas,1300-,1300,,1300,"Shock et al., 2014",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazonas,Couro Velho,3686-3483,3686,3483,3585,"Gonda, 2018",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+Amazonas,Couro Velho,3686-3483,3686,3483,3585,"Gonda, 2018",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Minas Gerais,Lapa dos Bichos,4250-,4250,,4250,"Shock, 2010",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2
+French Guiana ,Raised fields,950,950,,950,"Iriarte et al.,  2010 ",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
