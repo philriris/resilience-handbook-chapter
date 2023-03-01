@@ -17,7 +17,7 @@ In addition, the code is accompanied by three datasets:
 
 - A table containing archaeological radiocarbon dates from lowland tropical South America
 - A shapefile of South American ecoregions, available [here](http://ecologicalregions.info/data/sa/)
-- A table of domesticated Neotropical plants resolved in Amazonian pollen records, after [Iriarte et al. (2020)](https://doi.org/10.1016/j.quascirev.2020.106582)
+- A table of domesticated Neotropical plants resolved in Amazonian palaeoecological records, after [Iriarte et al. (2020)](https://doi.org/10.1016/j.quascirev.2020.106582)
 
 
 ### References
