@@ -16,7 +16,7 @@ The code features an extended version of the [p2pPerm function](https://github.c
 In addition, the code is accompanied by three datasets:
 
 - A [table](https://github.com/philriris/resilience-handbook-chapter/blob/main/rhdata.csv) containing archaeological radiocarbon dates from lowland tropical South America 
-- A [shapefile](https://github.com/philriris/resilience-handbook-chapter/tree/main/sa_eco) of South American ecoregions, available [here](http://ecologicalregions.info/data/sa/)
+- A [shapefile](https://github.com/philriris/resilience-handbook-chapter/tree/main/sa_eco) of South American ecoregions, original data available [here](http://ecologicalregions.info/data/sa/)
 - A [table](https://github.com/philriris/resilience-handbook-chapter/blob/main/domesticates.csv) of domesticated Neotropical plants resolved in Amazonian palaeoecological records, after [Iriarte et al. (2020)](https://doi.org/10.1016/j.quascirev.2020.106582)
 
 For the convenience of the end-user, an additional file containing the main results (metrics_regular.csv) is included. The data contained in this table is the subject of section 3 of the code, **Statistical Modelling**, and form the basis of the discussion in the chapter. 
