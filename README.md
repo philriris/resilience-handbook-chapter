@@ -1,4 +1,4 @@
-# Electronic Supplementary Information for "The biogeography of population resilience in lowland South America" chapter
+## Electronic Supplementary Information for "The biogeography of population resilience in lowland South America" chapter
 
 This repository holds the code and data for reproducing the results of the analysis in the title chapter, forthcoming in the _Oxford Handbook of Resilience in Climate History_. It also contains supplementary information on the statistical modelling undertaken as part of the aforementioned work. 
 
@@ -20,7 +20,7 @@ In addition, the code is accompanied by three datasets:
 - A table of edible Neotropical plants resolved in Amazonian pollen records, after [Iriarte et al. (2020)](https://doi.org/10.1016/j.quascirev.2020.106582)
 
 
-## References
+### References
 
 - Iriarte, J., Elliott, S., Maezumi, S.Y., Alves, D., Gonda, R., Robinson, M., de Souza, J.G., Watling, J. and Handley, J. 2020. The origins of Amazonian landscapes: Plant cultivation, domestication and the spread of food production in tropical South America. _Quaternary Science Reviews_ 248: 106582. https://doi.org/10.1016/j.quascirev.2020.106582 
 
