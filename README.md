@@ -1,6 +1,6 @@
 ## Electronic Supplementary Information for "The biogeography of population resilience in lowland South America" chapter
 
-This repository holds the code and data for reproducing the results of the analysis in the title chapter, forthcoming in the _Oxford Handbook of Resilience in Climate History_. It also contains supplementary information on the statistical modelling undertaken as part of the aforementioned work. 
+This repository holds the code and data for reproducing the analysis in the chapter "The biogeography of population resilience in lowland South America", forthcoming in the _Oxford Handbook of Resilience in Climate History_. It also contains supplementary information on the statistical modelling undertaken as part of the aforementioned work. 
 
 The code comprises five principal sections, plus setup:
 
