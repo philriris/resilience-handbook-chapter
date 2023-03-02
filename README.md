@@ -11,7 +11,7 @@ The code comprises five principal sections, plus setup:
 4. Output
 5. Supplementary output
 
-The code features an extended version of the [p2pPerm function](https://github.com/philriris/p2pPerm) that was first introduced in [Riris and De Souza (2021)](https://doi.org/10.3389/fevo.2021.740629). 
+The code features an extended version of the [p2pPerm function](https://github.com/philriris/p2pPerm) that was first introduced in [Riris and De Souza (2021)](https://doi.org/10.3389/fevo.2021.740629), here called the `resmet` (**res**ilience **met**rics) function. 
 
 In addition, the code is accompanied by three datasets:
 
@@ -25,7 +25,7 @@ As well as its use in the production of Figure 1, the ecoregions shapefile has b
 
 For the convenience of the end-user, an additional file containing the main results ([metrics_regular.csv](https://github.com/philriris/resilience-handbook-chapter/blob/main/metrics_regular.csv)) is included. The data contained in this table is the subject of section 3 of the code, **Statistical Modelling**. It forms the basis of the discussion in the chapter. 
 
-Data cleaning was carried out manually on the raw output of the `resmet` (**res**ilience **met**rics) function to remove false positives from the table. These "events" are either: _a)_ statistically significant downturns present in periods where, logically, no humans should be present, e.g. in the Greater Antilles before ~6000 cal BP, or: _b)_ downturns where there are no minima in the summed probability distributions of calibrated radiocarbon dates, returning nonsensical resilience metrics. Removing these data rows introduces errors to the variable Cumulative, which counts the cumulative number of downturns detected by the `permTest` function in `rcarbon`. The file version of the output in this repository should be considered authoritative for present purposes, as these counting errors in Cumulative have been manually fixed too. 
+Data cleaning was carried out manually on the raw output of the `resmet` function to remove false positives from the table. These "events" are either: _a)_ statistically significant downturns present in periods where, logically, no humans should be present, e.g. in the Greater Antilles before ~6000 cal BP, or: _b)_ downturns where there are no minima in the summed probability distributions of calibrated radiocarbon dates, returning nonsensical resilience metrics. Removing these data rows introduces errors to the variable Cumulative, which counts the cumulative number of downturns detected by the `permTest` function in `rcarbon`. The file version of the output in this repository should be considered authoritative for present purposes, as these counting errors in Cumulative have been manually fixed too. 
 
 ### References
 
